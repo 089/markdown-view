@@ -1,4 +1,6 @@
 # markdown-view
+![unmaintained](http://img.shields.io/badge/status-unmaintained-red.png)
+
 Converts the selected .md file(s) to html using pandoc and displays them in your default browser. 
 
 # "install" tested on Ubuntu 14.04LTS
